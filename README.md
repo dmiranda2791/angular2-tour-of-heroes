@@ -5,5 +5,7 @@ This is the result of Angular's Tour of Heroes tutorial.
 I used the quickstarter repo and followed the tutorial.
 
 Running instructions
-`npm install`
-`npm start`
+```
+npm install
+npm start
+```
